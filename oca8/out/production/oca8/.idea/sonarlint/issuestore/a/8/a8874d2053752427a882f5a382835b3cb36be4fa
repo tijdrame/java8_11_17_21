@@ -1,0 +1,25 @@
+
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¨«ûšıÿÿÿÿ8á’ÑŒï1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨«ûšıÿÿÿÿ8â’ÑŒï1
+V
+java:S3400"9Remove this method and declare a constant for this value.(à×»“8ã’ÑŒï1
+L	java:S106"+Replace this use of System.out by a logger.(‚›ö¼ûÿÿÿÿ8ï’ÑŒï1
+F
+java:S1481")Remove this unused "boat" local variable.(‘Ì…ı8ï’ÑŒï1
+G	java:S106"+Replace this use of System.out by a logger.(Û˜´³8ï’ÑŒï1
+L
+java:S1481"*Remove this unused "train" local variable.(÷…‚şÿÿÿÿ8ğ’ÑŒï1
+L	java:S106"+Replace this use of System.out by a logger.(ıÔºøÿÿÿÿ8ğ’ÑŒï1
+>
+java:S6205"Remove this redundant block.(„‡÷¯ùÿÿÿÿ8ò’ÑŒï1
+L	java:S106"+Replace this use of System.out by a logger.(äî¤áşÿÿÿÿ8ó’ÑŒï1
+H
+java:S1481"&Remove this unused "b" local variable.(—áù¹üÿÿÿÿ8õ’ÑŒï1
+L	java:S106"+Replace this use of System.out by a logger.(—áù¹üÿÿÿÿ8ø’ÑŒï1
+H
+java:S1481"&Remove this unused "t" local variable.(ª·Ïıÿÿÿÿ8ü’ÑŒï1
+L	java:S106"+Replace this use of System.out by a logger.(ª·Ïıÿÿÿÿ8ı’ÑŒï1
+G
+java:S6217"%Remove this redundant permitted list.(¨«ûšıÿÿÿÿ8€“ÑŒï1

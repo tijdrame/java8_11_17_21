@@ -1,0 +1,16 @@
+
+g
+java:S2259"L"NullPointerException" will be thrown when invoking method "selectorType()".(²ü¤˜ûÿÿÿÿ
+Z
+java:S2259"DA "NullPointerException" could be thrown; "System" is nullable here.(ÆÀûý
+W
+java:S2094"BRemove this empty class, write its code or make it an "interface".(˜¬ö?
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+B
+java:S1481"'Remove this unused "s1" local variable.(ÊÞÄáùÿÿÿÿ
+A
+java:S1481"&Remove this unused "r" local variable.(®Ëà•ýÿÿÿÿ
+<
+java:S1481"&Remove this unused "e" local variable.(Í³ÂÓ
+B
+java:S1481"'Remove this unused "da" local variable.(óù¼‹ýÿÿÿÿ

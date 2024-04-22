@@ -1,0 +1,27 @@
+
+j
+java:S1192	"ODefine a constant instead of duplicating this literal "Not recognised" 3 times.(÷›Ð™ùÿÿÿÿ
+Z
+java:S2259"DA "NullPointerException" could be thrown; "System" is nullable here.(ÆÀûý
+<
+java:S1481"&Remove this unused "s" local variable.(Š²ƒ‡
+@	java:S106"+Replace this use of System.out by a logger.(Š²ƒ‡
+<
+java:S1481"&Remove this unused "i" local variable.(¢ñÀ 
+@	java:S106"+Replace this use of System.out by a logger.(¢ñÀ 
+@	java:S106"+Replace this use of System.out by a logger.(»ôÐ
+E	java:S106	"+Replace this use of System.out by a logger.(÷›Ð™ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+A
+java:S1481"&Remove this unused "s" local variable.(óû™Öøÿÿÿÿ
+>
+java:S6205"(Remove this redundant block and "yield".(¼€…­
+<
+java:S1481"&Remove this unused "i" local variable.(¼€…­
+Q	java:S125"<This block of commented-out lines of code should be removed.(ýÉåÆ
+?	java:S106"+Replace this use of System.out by a logger.(¬“›^
+E	java:S106"+Replace this use of System.out by a logger.(ùµÄÜýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(»ôÐ
+E	java:S106"+Replace this use of System.out by a logger.(÷›Ð™ùÿÿÿÿ
+C	java:S108#")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(î³ïµ

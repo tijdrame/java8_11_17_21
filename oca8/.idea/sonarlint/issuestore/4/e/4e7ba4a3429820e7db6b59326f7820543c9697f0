@@ -1,0 +1,13 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(˜‡­Û
+f
+java:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(÷äİáûÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(òÄŒÂûÿÿÿÿ
+n	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(˜‡­Û
+@	java:S106"+Replace this use of System.out by a logger.(™Âæ®
+E	java:S106"+Replace this use of System.out by a logger.(ãÙ¾ìøÿÿÿÿ
+s	java:S131 "YComplete cases by adding the missing enum constants or add a default case to this switch.(÷äİáûÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(”‰®øÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(ò—å»
+Q	java:S125("<This block of commented-out lines of code should be removed.(øä˜—

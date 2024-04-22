@@ -1,0 +1,14 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¤å›‰
+T
+java:S3400"9Remove this method and declare a constant for this value.(˜§¶˜øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+<
+java:S1481"&Remove this unused "b" local variable.(¦€„™
+A
+java:S1481"&Remove this unused "t" local variable.(¹ïÚ‚ÿÿÿÿÿ
+>
+java:S6205"(Remove this redundant block and "yield".(‘‰‘æ
+;
+java:S6217"%Remove this redundant permitted list.(¤å›‰
